@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 182, 193); /* Light red/pink */
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+  }
+  #uq-1 {
+    color: blue;
+    font-size: 36px;
+  }
+    
+  .odd.highlight {
+    background-color: rgb(255, 182, 193); /* Light red/pink */
+    font-size: 24px;
+  }
+  #uq-2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+  }
+    
